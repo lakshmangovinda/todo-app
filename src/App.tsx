@@ -1,6 +1,6 @@
 
 import './index.css'
-import { Routes, Route, BrowserRouter as Router, Navigate } from 'react-router-dom';
+import { Routes, Route, HashRouter as Router, Navigate } from 'react-router-dom';
 import NavigationBar from './Components/Navigation/NavigationBar';
 import Home from './Components/Home/Home';
 import Login from './Components/Login/Login';
